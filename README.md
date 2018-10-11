@@ -5,7 +5,7 @@ This is messy because... well because I'm learning. So I'll just write down here
 
 PROJECTS 1 & 2 are mainly here to give an introduction to the job and to learn to communicate as a Data Analyst.
 
-Skills acquired:
+Skills acquired
 -personnalize a course's schedule
 -manage a study or job's project
 -create and update a C.V.
