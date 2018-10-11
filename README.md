@@ -6,14 +6,21 @@ This is messy because... well because I'm learning. So I'll just write down here
 PROJECTS 1 & 2 are mainly here to give an introduction to the job and to learn to communicate as a Data Analyst.
 
 Skills acquired
+
 personnalize a course's schedule
+
 manage a study or job's project
+
 create and update a C.V.
+
 better understand the Data Analyst job
+
 establish contact with teachers/hierarchical superior
+
 criticism in graphics interpretation
 
 PROJECT 3: Drive a public health survey.
+
 Context: the goal in this project is to figure out why and how is there hunger in the world.
 
 Skills acquired:
