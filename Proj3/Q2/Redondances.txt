@@ -1,0 +1,26 @@
+***Parmi les documents sur les Bilans alimentaires que vous avez téléchargés, il y a des informations redondantes. 
+En effet, certaines peuvent se calculer à partir d'autres :
+
+- Production (Production)
+- Importations (Import Quantity)
+- Exportations (Export Quantity)
+- Variation de stock (Stock Variation) 
+- Disponibilité intérieure (Domestic supply):
+Production + importations - exportations + évolution des stocks (augmentation ou diminution) 
+= disponibilités servant à une utilisation intérieure.
+- Semences (Seed)
+- Pertes (Waste):  Les pertes sont souvent calculées en pourcentage fixe de la disponibilité
+- Nourriture (Food)
+- Aliments pour animaux (Feed)
+- Traitement (Processed)
+- Autres utilisations (Other uses)     !!Peuvent se calculer a partir de la disponibilité intérieure!!
+
+
+
+Variation de Stock =
+ Production
+ +importation
+-("Consommation"= Food + Feed)
+-exportation
+-pertes
+-autres ( Seed,Processed,Other uses )

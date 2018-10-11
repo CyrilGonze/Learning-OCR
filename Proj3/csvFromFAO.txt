@@ -1,0 +1,63 @@
+"FAOSTAT_data_5-22-2018 (1).csv"
+Bilans Alimentaires
+Tous les pays - Chine ( = Monde>Liste )
+Population totale
+Population
+2010,2011,2012,2013
+
+"FAOSTAT_EnergiePoids.csv"
+Bilans Alimentaires
+Monde>Liste
+Disponibilité alimentaire en quantité, Disponibilité alimentaire en Kcal
+Tous les produits
+2013
+
+"FAOSTAT_VegDispoInt.csv"
+Bilans Alimentaires
+Monde>Liste
+Disponibilité intérieure, Semences, Transformés, Autres utilisations
+Produits Végétaux (>Liste)
+2013
+
+"FAOSTATSOUSALIM.csv"
+Sécurité Alimentaire
+Données de la sécurité alimentaire
+Monde>Liste
+Valeur
+Nombre de personnes sous-alimentées
+2013/2012-2014, 2015/2014-2016
+
+"FAOSTAT_Prot.csv"
+Bilans Alimentaires
+Monde>Liste
+Disponibilité alimentaire en quantité, Disponibilité de protéines en quantité
+Tous les produits
+2013
+
+"FAOSTATcereales.csv"
+Bilans Alimentaires
+Monde>Liste
+Disponibilité intérieure, Aliments pour animaux
+Groupes de produits "Céréales">Liste
+2013
+
+"FAOSTAT_DispoInterieureProdAnim.csv"
+Bilans Alimentaires
+Monde>Total
+Disponibilité intérieure
+Groupe de produits "Produits animaux">Liste
+2013
+
+"FAOSTAT_AnimAlim.csv"
+Bilans Alimentaires
+Monde>Total
+Disponibilité alimentaire en quantité
+Groupe de produits "Produits animaux">Liste
+2013
+
+"FAOSTAT_CerealesPourAnimaux.csv"
+Bilans Alimentaires
+Monde>Total
+Aliments pour animaux
+Groupe de produits "Cérèales">Liste
+2013
