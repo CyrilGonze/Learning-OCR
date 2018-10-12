@@ -77,3 +77,13 @@ Skills acquired:
 
 
 To be continued....
+
+a
+b
+c
+!
+c
+d:
+a
+e
+
