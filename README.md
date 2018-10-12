@@ -13,11 +13,11 @@ Skills acquired:
 
 -create and update a C.V.
 
--better understand the Data Analyst job
+-understand the Data Analyst job
 
 -establish contact with teachers/hierarchical superior
 
-criticism in graphics interpretation
+-have criticism in graphics interpretation
 
 PROJECT 3: Drive a public health survey.
 
