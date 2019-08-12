@@ -1,7 +1,7 @@
 # Learning-OCR
 In this repository will be all the projects I've done during my studies at OCR
 
-This is messy because... well because I'm learning. So I'll just write down here the skills I acquired through these projects.
+So I'll just write down here the skills I acquired through these projects.
 
 PROJECTS 1 & 2 are mainly here to give an introduction to the job and to learn to communicate as a Data Analyst.
 
@@ -15,13 +15,13 @@ Skills acquired:
 
 -understand the Data Analyst job
 
--establish contact with teachers/hierarchical superior
+-establish contact with hierarchical superior
 
 -have criticism in graphics interpretation
 
 PROJECT 3: Drive a public health survey.
 
-Context: the goal in this project is to figure out why and how is there hunger in the world.
+Context: finding some hints about hunger in the world and potential ways to fix it.
 
 Skills acquired:
 
@@ -51,7 +51,7 @@ Skills acquired:
 
 PROJECT 5 : Market research.
 
-Context: Hired as data analyst in chicken's business. We want to know which country to target and sell our chickens.
+Context: Hired as data analyst in chicken's business. We want to know which country to target to export our chickens.
 
 Skills acquired:
 
@@ -63,7 +63,7 @@ Skills acquired:
 
 PROJECT 6 : Counterfeit bills detection.
 
-Context: Hired at the Police !!! We'll track down the baddies with counterfeit bills detection algorithm !
+Context: Hired at the Police !!! Training a counterfeit bills detection algorithm !
 
 Skills acquired:
 
@@ -76,4 +76,4 @@ Skills acquired:
 -PCA - intermediate
 
 
-To be continued....
+
