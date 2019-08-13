@@ -1,0 +1,35 @@
+Variable_name;Variable_long_name;Unit_long_name;Comment
+Q;Reactive_power;kVAr;
+Va2;Vane_position_2;deg;Second wind vane on the nacelle
+Ws2;Wind_speed_2;m/s;Second anemometer on the nacelle
+Ws;Wind_speed;m/s;Average wind speed
+Dst;Generator_stator_temperature;deg_C;
+Git;Gearbox_inlet_temperature;deg_C;
+Ot;Outdoor_temperature;deg_C;
+Yt;Nacelle_temperature;deg_C;
+Nf;Grid_frequency;Hz;
+Nu;Grid_voltage;V;
+Rm;Torque;Nm;
+Wa_c;Absolute_wind_direction_corrected;deg;
+Na_c;Nacelle_angle_corrected;deg;
+Gb2t;Gearbox_bearing_2_temperature;deg_C;
+Gost;Gearbox_oil_sump_temperature;deg_C;
+DCs;Generator_converter_speed;rpm;
+Wa;Absolute_wind_direction;deg;
+Ds;Generator_speed;rpm;
+Cm;Converter_torque;Nm;
+Va;Vane_position;deg;
+Ya;Nacelle_angle;deg;
+Rs;Rotor_speed;rpm;
+S;Apparent_power;kVA;Should be the square root of the sum of P square and Q square
+Cosphi;Power_factor;;Should equal P/S
+Rt;Hub_temperature;deg_C;
+Ba;Pitch_angle;deg;
+P;Active_power;kW;
+Va1;Vane_position_1;deg;First wind vane on the nacelle
+Ws1;Wind_speed_1;m/s;First anemometer on the nacelle
+Db2t;Generator_bearing_2_temperature;deg_C;
+Db1t;Generator_bearing_1_temperature;deg_C;
+Gb1t;Gearbox_bearing_1_temperature;deg_C;
+Rbt;Rotor_bearing_temperature;deg_C;
+Pas;Pitch_angle_setpoint;;

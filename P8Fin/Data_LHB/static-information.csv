@@ -1,0 +1,5 @@
+﻿Wind_turbine_name;Wind_turbine_long_name;Manufacturer;Model;Rated power (kW);Hub height (m);Rotor diameter (m);GPS;Altitude (m);Commissioning date;Department;Region
+R80736;FRHBO_E04_80736;Senvion;MM82;2050;80;82;48.4461, 5.5925;411;2009-01-15;Meuse;Grand Est
+R80711;FRHBO_E01_80711;Senvion;MM82;2050;80;82;48.4569, 5.5847;411;2009-01-15;Meuse;Grand Est
+R80790;FRHBO_E02_80790;Senvion;MM82;2050;80;82;48.4536, 5.5875;411;2009-01-15;Meuse;Grand Est
+R80721;FRHBO_E03_80721;Senvion;MM82;2050;80;82;48.4497, 5.5869;411;2009-01-15;Meuse;Grand Est
