@@ -3,8 +3,9 @@ In this repository I'll put all the projects done during my studies at OCR
 
 So I'll just write down here the skills I acquired through these projects.
 
+## IMPORTANT ! GitHub seems to have issues when trying to display a Jupyter Notebook. Use https://nbviewer.jupyter.org/ to view them.
 
-PROJECTS 1 & 2 are mainly here to give an introduction to the job and to learn to communicate as a Data Analyst.
+### PROJECTS 1 & 2 are mainly here to give an introduction to the job and to learn to communicate as a Data Analyst.
 
 Skills acquired:
 
@@ -21,7 +22,7 @@ Skills acquired:
 -have criticism in graphics interpretation
 
 
-PROJECT 3: Drive a public health survey.
+### PROJECT 3: Drive a public health survey.
 
 Context: finding some hints about hunger in the world and potential ways to fix it.
 
@@ -38,7 +39,7 @@ Skills acquired:
 -use technical documentation
 
 
-PROJECT 4 : Deep business analysis.
+### PROJECT 4 : Deep business analysis.
 
 Context: Hired in the business of selling books, we'll find out who buys what, 
 
@@ -53,7 +54,7 @@ Skills acquired:
 -Statistics fundamentals
 
 
-PROJECT 5 : Market research.
+### PROJECT 5 : Market research.
 
 Context: Hired as data analyst in chicken's business. We want to know which country to target to export our chickens.
 
@@ -66,7 +67,7 @@ Skills acquired:
 -Inferential statistics basics
 
 
-PROJECT 6 : Counterfeit bills detection.
+### PROJECT 6 : Counterfeit bills detection.
 
 Context: Hired at the Police !!! Training a counterfeit bills detection algorithm !
 
@@ -81,7 +82,7 @@ Skills acquired:
 -PCA - intermediate
 
 
-PROJECT 7 : Forecasting revenues.
+### PROJECT 7 : Forecasting revenues.
 
 Context : how much money are you going to make ? What are the factors that influence it ?
 
@@ -96,7 +97,7 @@ Skills acquired :
 -ANOVA - Advanced
 
 
-PROJECT 8 : Personal project. Reporting.
+### PROJECT 8 : Personal project. Reporting.
 
 Context : I studied the wind turbines operation to improve their usage.
 
@@ -113,7 +114,7 @@ Skills acquired :
 -Precise and complete reporting to superior
 
 
-PROJECT 9 : Electricity usage forecasting.
+### PROJECT 9 : Electricity usage forecasting.
 
 Context : I want to know the electricity usage in the next years.
 
